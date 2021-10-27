@@ -1,0 +1,130 @@
+{"data": [
+    {
+      "id": "268694930",
+      "type": "songs",
+      "href": "/v1/catalog/gb/songs/268694930",
+      "attributes": {
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/83/6d/9b/836d9b05-f47f-e368-cc32-1b2810dfa778/mzaf_7757119526092710998.plus.aac.p.m4a"
+          }
+        ],
+        "artwork": {
+          "width": 795,
+          "height": 800,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Features/6a/f1/f8/dj.nlopxusm.jpg/{w}x{h}bb.jpeg",
+          "bgColor": "24073b",
+          "textColor1": "f2f6e7",
+          "textColor2": "e7edd4",
+          "textColor3": "c9c6c4",
+          "textColor4": "c0beb5"
+        },
+        "artistName": "Girls Aloud",
+        "url": "https://itunes.apple.com/gb/album/call-the-shots/268694897?i=268694930",
+        "discNumber": 1,
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Dance",
+          "Pop/Rock",
+          "Teen Pop"
+        ],
+        "durationInMillis": 224547,
+        "releaseDate": "2007-11-19",
+        "name": "Call the Shots",
+        "isrc": "GBUM70708609",
+        "albumName": "Tangled Up",
+        "playParams": {
+          "id": "268694930",
+          "kind": "song"
+        },
+        "trackNumber": 1,
+        "composerName": "Brian Higgins, Miranda Cooper, Tim Powell, Giselle Sommerville & Lisa Cowling"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "268694897",
+              "type": "albums",
+              "href": "/v1/catalog/gb/albums/268694897"
+            }
+          ],
+          "href": "/v1/catalog/gb/songs/268694930/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "13131662",
+              "type": "artists",
+              "href": "/v1/catalog/gb/artists/13131662"
+            }
+          ],
+          "href": "/v1/catalog/gb/songs/268694930/artists"
+        }
+      }
+    },
+    {
+      "id": "981849596",
+      "type": "songs",
+      "href": "/v1/catalog/gb/songs/981849596",
+      "attributes": {
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/20/26/4d/20264dad-0f02-0383-4cd5-2ec1cdfcb3c5/mzaf_2043074211001907056.plus.aac.p.m4a"
+          }
+        ],
+        "artwork": {
+          "width": 1500,
+          "height": 1500,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/97/a1/22/97a122e9-487f-c0b9-c203-2d0212665635/15UMGIM18983.jpg/{w}x{h}bb.jpeg",
+          "bgColor": "71b3e1",
+          "textColor1": "030302",
+          "textColor2": "1f1f1f",
+          "textColor3": "19262e",
+          "textColor4": "303d46"
+        },
+        "artistName": "Girls Aloud",
+        "url": "https://itunes.apple.com/gb/album/call-the-shots/981848940?i=981849596",
+        "discNumber": 1,
+        "genreNames": [
+          "Pop",
+          "Music"
+        ],
+        "durationInMillis": 224733,
+        "releaseDate": "2007-11-19",
+        "name": "Call the Shots",
+        "isrc": "GBUM70708609",
+        "albumName": "The Playlist - Relax",
+        "playParams": {
+          "id": "981849596",
+          "kind": "song"
+        },
+        "trackNumber": 13,
+        "composerName": "Brian Higgins, Miranda Cooper, Tim Powell, Giselle Sommerville & Lisa Cowling"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "981848940",
+              "type": "albums",
+              "href": "/v1/catalog/gb/albums/981848940"
+            }
+          ],
+          "href": "/v1/catalog/gb/songs/981849596/albums"
+        },
+        "artists": {
+          "data": [
+            {
+              "id": "13131662",
+              "type": "artists",
+              "href": "/v1/catalog/gb/artists/13131662"
+            }
+          ],
+          "href": "/v1/catalog/gb/songs/981849596/artists"
+        }
+      }
+    }
+    ]
+}
